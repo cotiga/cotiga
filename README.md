@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cotiga
+- 👀 I am mainly interested in PHP development and JS
+- 🌱 I’m currently learning VueRouter
+- 💞️ I am looking for distributors for my Cash register, CMS and E-Commerce solutions
+- 📫 Contact me by email at: contact@cotiga.fr
