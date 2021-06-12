@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Serge LEDIG, boss of COTIGA
 - 👀 I am mainly interested in PHP development and JS. I don't like Wordpress, Prestashop and Tailwind CSS 😋
 - 🌱 I’m currently learning VueRouter
-- 💞️ I am looking for distributors for my Cash register, CMS and E-Commerce solutions
+- 💞️ I am looking for distributors for my Cash register System, CMS and E-Commerce solutions
 - 📫 Contact me by email at: contact@cotiga.fr
